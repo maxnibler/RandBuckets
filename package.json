@@ -1,0 +1,13 @@
+{
+    "name": "com.maxnibler.randomization",
+    "version": "1.0.0",
+    "displayName": "Randomization",
+    "description": "This is a Library for my own randomization Classes and Utilities",
+    "unity": "2022.3",
+    "unityRelease": "21f1",
+    "author": {
+        "name": "Max Nibler",
+        "email": "maxnibler.dev@gmail.com",
+        "url": "https://github.com/maxnibler"
+    }
+}
